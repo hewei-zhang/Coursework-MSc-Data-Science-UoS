@@ -8,7 +8,7 @@ Course  content:
 
 [INF6033 Data and Society](https://github.com/H-Z-Kevin/Coursework-Semester-1/issues/1)      =====================>**Distinction**
 
-[INF6060 Information Retrieval and Search Engine](https://github.com/H-Z-Kevin/Coursework-Semester-1/issues/2) ==================>**Distinction**
+[INF6060 Information Retrieval and Search Engine](https://github.com/H-Z-Kevin/Coursework-Semester-1/issues/2) ====>**Distinction**
 
 [INF6903 Academic Writing](https://github.com/H-Z-Kevin/Coursework-Semester-1/blob/master/Coursework-Final-Version/Academic_Writing.pdf)      ====================>**Distinction**
 
