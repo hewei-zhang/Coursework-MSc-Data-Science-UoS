@@ -6,7 +6,7 @@ The aim of sharing is to summarise my own work and give anyone any inspiration. 
 
 Course  content:
 
-[INF6033 Data and Society](https://github.com/H-Z-Kevin/Coursework-Semester-1/blob/master/Coursework-Final-Version/Data_and_Society.pdf).     ====================>**Distinction**
+[INF6033 Data and Society](https://github.com/H-Z-Kevin/Coursework-Semester-1/issues/1)      ====================>**Distinction**
 
 [INF6060 Information Retrieval](https://github.com/H-Z-Kevin/Coursework-Semester-1/blob/master/Coursework-Final-Version/Information_Retrieval.pdf) ==================>**Distinction**
 
