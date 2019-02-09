@@ -1,12 +1,12 @@
 # Coursework-Semester-1
 
-These are individual courseworks that I have done during my graduate study. 
+These are individual courseworks during my graduate study. 
 
-The aim of sharing is to summarise my own work and give anyone any inspiration. If it is really helpful, please give a star to let me know;-)
+The aim of sharing is to summarise my own work and give anyone any inspiration. If it is really helpful or you like it, please give me a star to let me know;-)
 
 Course  content:
 
-[INF6033 Data and Society](https://github.com/H-Z-Kevin/Coursework-Semester-1/issues/1)      ====================>**Distinction**
+[INF6033 Data and Society](https://github.com/H-Z-Kevin/Coursework-Semester-1/issues/1)      =====================>**Distinction**
 
 [INF6060 Information Retrieval](https://github.com/H-Z-Kevin/Coursework-Semester-1/blob/master/Coursework-Final-Version/Information_Retrieval.pdf) ==================>**Distinction**
 
