@@ -8,7 +8,7 @@ Course  content:
 
 [INF6027 Introduction to Data Science](https://github.com/H-Z-Kevin/Coursework-Semester-1/blob/master/Coursework-Final-Version/Introduction_to_Data_Science.pdf) ============>
 
-[INF6029 Data Analysis](https://github.com/H-Z-Kevin/Coursework-Semester-1/blob/master/Coursework-Final-Version/Data_Analysis.pdf)         =======================>
+[INF6029 Data Analysis](https://github.com/H-Z-Kevin/Coursework-Semester-1/issues/4)         =======================>
 
 [INF6033 Data and Society](https://github.com/H-Z-Kevin/Coursework-Semester-1/issues/1)      ====================>**Distinction**
 
