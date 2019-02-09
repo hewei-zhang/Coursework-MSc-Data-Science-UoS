@@ -16,6 +16,6 @@ Course  content:
 
 [INF6903 Academic Writing](https://github.com/H-Z-Kevin/Coursework-Semester-1/issues/3)      ====================>**Distinction**
 
-**Important statement: the essays and reports cannot be paraphrased in your academic writing (including reference and citation). Because these materials are not peer-reviewed articles. Be sensible and don't copy or Turnitin will tell!!
+**Important statement: the essays and reports cannot be paraphrased in your academic writing (including reference and citation). Because these materials are not peer-reviewed articles. Be sensible and don't copy or Turnitin will tell!!**
 
 Copyright Notice: [Attribution-NonCommercial-NoDerivs](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.en)
