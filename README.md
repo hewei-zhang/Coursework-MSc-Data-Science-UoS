@@ -14,7 +14,7 @@ Course  content:
 
 [INF6060 Information Retrieval and Search Engine](https://github.com/H-Z-Kevin/Coursework-Semester-1/issues/2) ====>**Distinction**
 
-[INF6903 Academic Writing](https://github.com/H-Z-Kevin/Coursework-Semester-1/blob/master/Coursework-Final-Version/Academic_Writing.pdf)      ====================>**Distinction**
+[INF6903 Academic Writing](https://github.com/H-Z-Kevin/Coursework-Semester-1/issues/3)      ====================>**Distinction**
 
 **Important statement:** the essays and reports cannot be paraphrased in your academic writing (including reference and citation). Because these materials are not peer-reviewed articles. Be sensible and don't copy or Turnitin will tell!!
 
