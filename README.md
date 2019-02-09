@@ -10,7 +10,7 @@ Course  content:
 
 [INF6029 Data Analysis](https://github.com/H-Z-Kevin/Coursework-Semester-1/issues/4)         =======================>
 
-[INF6033 Data and Society](https://github.com/H-Z-Kevin/Coursework-Semester-1/issues/1)      ====================>**Distinction**
+[INF6033 Data and Society](https://github.com/H-Z-Kevin/Coursework-Semester-1/issues/1)       ====================>**Distinction**
 
 [INF6060 Information Retrieval and Search Engine](https://github.com/H-Z-Kevin/Coursework-Semester-1/issues/2) ====>**Distinction**
 
