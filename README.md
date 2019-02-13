@@ -6,7 +6,7 @@ The aim of sharing is to summarise my own work and give anyone any inspiration. 
 
 Course  content:
 
-[INF6027 Introduction to Data Science](https://github.com/H-Z-Kevin/Coursework-Semester-1/blob/master/Coursework-Final-Version/Introduction_to_Data_Science.pdf) ============>**nearly Distinction ;-)**
+[INF6027 Introduction to Data Science](https://github.com/H-Z-Kevin/Coursework-Semester-1/blob/master/Coursework-Final-Version/Introduction_to_Data_Science.pdf) ============>**Distinction (nearly;-)**
 
 [INF6029 Data Analysis](https://github.com/H-Z-Kevin/Coursework-Semester-1/issues/4)         =======================>
 
