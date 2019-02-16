@@ -4,8 +4,6 @@ These are individual courseworks during my graduate study.
 
 The aim of sharing is to summarise my own work and give anyone any inspiration. If it is really helpful or you like it, please give me a star to let me know;-)
 
-Course  content:
-
 ## INF6027 Introduction to Data Science
 Coursework: [Analysis of UK police Dataset report](https://github.com/H-Z-Kevin/Coursework-Semester-1/blob/master/Coursework-Final-Version/Introduction_to_Data_Science.pdf)=====>**Distinction (nearly;-)**
 
