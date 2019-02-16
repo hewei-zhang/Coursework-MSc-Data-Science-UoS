@@ -29,6 +29,7 @@ In this report, the author selects the YouTube website to test but only assesses
 ## 5. INF6903 Academic Writing
 Coursework: [Contribution of data science on society](https://github.com/H-Z-Kevin/Coursework-Semester-1/blob/master/Coursework-Final-Version/Academic_Writing.pdf)====================>**Distinction**
 
+------------------------------------------------------------------------------------------------------------------------------
 **Important statement: the essays and reports cannot be paraphrased in your academic writing (including reference and citation). Because these materials are not peer-reviewed articles. Be sensible and don't copy or Turnitin will tell!!**
 
 Copyright Notice: [Attribution-NonCommercial-NoDerivs](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.en)
