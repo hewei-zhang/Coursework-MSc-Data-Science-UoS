@@ -22,7 +22,7 @@ Coursework: [Challenges in the interaction between data and society](https://git
 The main content of this essay is to investigate the challenge to data science practice from three aspects: Social-political power, Bias and Ethic issue. It is argued that unbalanced power is a major factor for non-neutral data science practice which reflects the bias in society. Based on this, the author provides and analyses potential solutions such as GDPR.
 
 ## 4. INF6060 Information Retrieval and Search Engine
-Courseworks: [The YouTube website search system evalution report](https://github.com/H-Z-Kevin/Coursework-Semester-1/blob/master/Coursework-Final-Version/Information_Retrieval.pdf)====>**Distinction**
+Coursework: [The YouTube website search system evalution report](https://github.com/H-Z-Kevin/Coursework-Semester-1/blob/master/Coursework-Final-Version/Information_Retrieval.pdf)====>**Distinction**
 
 In this report, the author selects the YouTube website to test but only assesses its search system, rather than other tasks such as sharing or downloading videos. There are three main aspects the author will investigate: functionalities, effectiveness and usability. In addition, Mean Reciprocal Rank (MRR) and normalized Discounted Cumulative Gain (nDCG) is used to examine Precision and Relevance rank individually. It is argued that the YouTube website search system can complete most common users' tasks effectively, but further work is needed to meet expert users' need.
 
