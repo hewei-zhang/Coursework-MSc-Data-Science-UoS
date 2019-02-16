@@ -6,9 +6,10 @@ The aim of sharing is to summarise my own work and give anyone any inspiration. 
 
 Course  content:
 
-1. [INF6027 Introduction to Data Science](https://github.com/H-Z-Kevin/Coursework-Semester-1/blob/master/Coursework-Final-Version/Introduction_to_Data_Science.pdf)=============>**Distinction (nearly;-)**
+## 1. INF6027 Introduction to Data Science
+Coursework: [Analysis of UK police Dataset report](https://github.com/H-Z-Kevin/Coursework-Semester-1/blob/master/Coursework-Final-Version/Introduction_to_Data_Science.pdf)=============>**Distinction (nearly;-)**
 
-2. INF6029 Data Analysis
+## 2. INF6029 Data Analysis
 
 Coursework: [Contribution of individual factors to happiness](https://github.com/H-Z-Kevin/Coursework-Semester-1/blob/master/Coursework-Final-Version/Data_Analysis.pdf)=======================>
 
