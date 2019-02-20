@@ -9,7 +9,7 @@ Coursework: [Analysis of UK police Dataset report](https://github.com/H-Z-Kevin/
 
 ## INF6029 Data Analysis
 
-Coursework: [Contribution of individual factors to happiness](https://github.com/H-Z-Kevin/Coursework-Semester-1/blob/master/Coursework-Final-Version/Data_Analysis.pdf)===========>
+Coursework: [Contribution of individual factors to happiness](https://github.com/H-Z-Kevin/Coursework-Semester-1/blob/master/Coursework-Final-Version/Data_Analysis.pdf)===========>**Merit**
 
 The title of the individual coursework is "to use SPSS software to analyse The Nottingham Longitudinal Study of Activity and Ageing (NLSAA) dataset which aims to investigate the elder physical or psychological wellbeing". The author, therefore, selects happiness as the dependent variable and five potential individual factors: gender, age, health, class and relationship with children. In addition, the descriptive statistic and inferential statistic method, including the Chi-squared test and logistic regression, is used to determine the effect of these variables on happiness. It is argued that gender, age and health can influence the level of happiness.
 
